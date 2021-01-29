@@ -445,3 +445,6 @@ appsettings.json
 
 # database
 *.db
+
+# vscode
+.vscode
