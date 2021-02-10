@@ -1,6 +1,6 @@
 using System;
 
-namespace API
+namespace Backend
 {
     public class WeatherForecast
     {
